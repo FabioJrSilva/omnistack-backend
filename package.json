@@ -22,9 +22,14 @@
   },
   "homepage": "https://github.com/FabioJrSilva/omnistack-backend#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3",
+    "multer": "^1.4.2"
   },
   "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
     "nodemon": "^1.19.3"
   }
 }
